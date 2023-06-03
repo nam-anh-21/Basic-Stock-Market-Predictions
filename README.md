@@ -136,7 +136,7 @@ Let's take a look at the true prediction value of the classifier. Here is the gr
 
 ## 3. Suggestions
 
-As we can all know, the stock market is very dynamic and it is somewhat hard for us to predict it using our knowledge and skills, letalone using Machine Learning/Deep Leaning Models. After I individually tested each of the most basic methods of stock market predicttion, here are some suggestions for further research.
+As we can all know, the stock market is very dynamic and it is somewhat hard for us to predict it using our knowledge and skills, letalone using Machine Learning/Deep Learning models. After I individually tested each of the most basic methods of stock market predicttion, here are some suggestions for further research.
 
 * Use additional models to understand their effectiveness. ARIMA or LSTM are not the only models that can be used for stock market prediction, and there are many more to discover. Some of these models are Generative Adversarial Networks (GAN) or Transformer.
 * Combine models together to find the optimal model. In my project, I only tested the models individually, without considering that the model might perform better when combined with others. In fact, there are many different methods of stock market prediction can be found online that combine models together to build a more complexed model and test the performance.
@@ -145,4 +145,4 @@ As we can all know, the stock market is very dynamic and it is somewhat hard for
 
 ## 4. Conclusion
 
-In summary, using these models indivisually may not grant us great result in predicting the stock market. Moreover, although these suggestions are perhaps aligned with common practices, it is essential to acknowledge the complexities and uncertainties in predicting stock market movements accurately. For a more robust prediction model, it is advised that a comprehensive approach that combines multiple factors and analysis techniques should be deployed.
+In summary, using these common models and strategies individually may not grant us great result in predicting the stock market. Moreover, although these suggestions are perhaps aligned with common practices, it is essential to acknowledge the complexities and uncertainties in predicting stock market movements accurately. For a more robust prediction model, it is advised that a comprehensive approach that combines multiple factors and analysis techniques should be deployed.
